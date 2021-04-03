@@ -12,12 +12,22 @@
 - **2019-2023**
 - **Guntur,AP,India**
 
+###Intermediate
+- **MPC**
+- **Sri chaitanya Jr college**
+
+###SSC
+- **Paparao public school**
+- SSC
+- **K.Uppalapadu**
+- 
+
 ### Technical Skills
 - C
 - Python
 - Java
 - DBMS
 
-###Certifications
+### Certifications
 - Completed python in **courseera**
 - certified by **Fullstack NanoDegree** in **Udacity**
