@@ -12,11 +12,11 @@
 - **2019-2023**
 - **Guntur,AP,India**
 
-###Intermediate
+### Intermediate
 - **MPC**
 - **Sri chaitanya Jr college**
 
-###SSC
+### SSC
 - **Paparao public school**
 - SSC
 - **K.Uppalapadu**
